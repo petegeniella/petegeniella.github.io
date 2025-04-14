@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pete Geniella</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Pete Geniella</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Apr 2025 09:26:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Apr 2025 09:26:29 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;&#xA;&lt;p&gt;This is a test post to test out the test posting!&lt;/p&gt;&#xA;&lt;h3 id=&#34;2020-kona-dew-deluxe-size-xl-roadgravelbeach-hybrid-bike&#34;&gt;2020 Kona Dew Deluxe (size XL) Road/Gravel/Beach Hybrid bike&lt;/h3&gt;&#xA;&lt;p&gt;LIKE NEW, less than 50 miles on it. You’ve heard this story before –– I bought this in 2020, rode it a few times, and then it sat in my garage since. It’s an ideal long distance commuter bike but would also make for a killer beach bike or for cruising around on a sunny weekend.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
